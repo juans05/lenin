@@ -1,0 +1,7 @@
+{
+  "name": "AppCartillas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
